@@ -1,6 +1,6 @@
 # Flutter Product Details App
 
-A modern Flutter e-commerce product details page with GetX state management. This app demonstrates best practices for building scalable Flutter applications with clean architecture. You can find the installation file here [ProductDescription.apk](apk/app-release.apk)
+A modern Flutter e-commerce product details page with GetX state management. This app demonstrates best practices for building scalable Flutter applications with clean architecture. You can find the installation file here [Get Here](apk/app-release.apk)
 
 <img src="screenshots/main.png" height="400" alt="Product Details Main Screen">
 
